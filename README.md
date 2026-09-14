@@ -17,11 +17,11 @@
 
 ## 自助充值流程
 
-自助充值我们主要使用[木豹 AI](https://mubaoai.com/?ch=github)
+自助充值我们主要使用木豹 AI：[https://mubaoai.com/](https://mubaoai.com/?ch=github)
 
 ![Plus 和 Pro 套餐入口](images/2026-09-14/mubao-home.png)
 
-1.打开[木豹 AI 站点](https://mubaoai.com/?ch=github)
+1.打开木豹 AI：[https://mubaoai.com/](https://mubaoai.com/?ch=github)
 
 首先我们打开木豹AI直接选择自己需要的套餐，比如以 Plus 为例子。
 
@@ -231,4 +231,4 @@ iPhone 用户一般会想到 Apple ID。
 对普通用户来说，能稳定到账、有订单记录、出问题有人处理，
 比便宜几十块更重要。
 
-如果你想了解具体套餐和充值流程，可以打开[木豹 AI](https://mubaoai.com/?ch=github)查看。
+如果你想了解具体套餐和充值流程，可以打开木豹 AI：[https://mubaoai.com/](https://mubaoai.com/?ch=github) 查看。
