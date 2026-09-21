@@ -61,6 +61,8 @@
 
 持续复测记录：
 
+- **2026 年 9 月 21 号**：实测，x20 套餐已经部分用户灰度开放，测试木豹 AI 有权限的客户可继续开通 x20PRO。。
+
 - **2026 年 9 月 10 日**：GPT 负责人 [Tibo](https://x.com/thsottiaux/status/2098113585683808624) 说明，
 
   > “We are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems.”
